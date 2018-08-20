@@ -1,2 +1,2 @@
 # Confirmed-Phish
-Confirmed phishing domains
+MrThreats filter list that blocks confirmed phishing domains
